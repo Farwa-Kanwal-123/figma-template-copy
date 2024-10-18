@@ -13,9 +13,9 @@ const About = () => {
               In the main page you can read about us. But here you can read more
               about project. And what we want do on this site. All women want
               look beautiful but they can afraid. Firstly they can afraid
-              because they don't know how start. Secondly they don't know how
-              right apply makeup that's why we want publish different video
-              about makeup. I think it's useful information. And finally you can
+              because they don &#39; t know how start. Secondly they dont know how
+              right apply makeup that &#39;s why we want publish different video
+              about makeup. I think it&#39;s useful information. And finally you can
               find information about different brands. And now I can tell about
               myself. My name Julia. I have eiughteen years old. Yes I know now
               you think how this young girl can talk to us about problem skin.
@@ -26,7 +26,7 @@ const About = () => {
               composition and information about different brands product. But
               you need remember that all people have different skin. What suits
               some does not suit others. When you buy new cosmetics you need
-              always tested on your arm before applying on face. It's very
+              always tested on your arm before applying on face. Its very
               important because you can prevent allergy on product components.
               Always remember about that all women can have got clean and
               beautiful skin but if you want it.{" "}

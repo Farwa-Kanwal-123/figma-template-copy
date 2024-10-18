@@ -27,7 +27,7 @@ const About = () => {
                 mi(Korean face cosmetics), La Roche-Posay(French face cosmetics)
                 and other brands. We take cosmetics different price. Because not
                 all can buy expensive cosmetics but all women want look
-                beautiful. That's why we start this project! All women can buy
+                beautiful. That&#39;s why we start this project! All women can buy
                 cosmetics!
               </p>
             </div>
