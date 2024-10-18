@@ -73,7 +73,7 @@ const Cosmatic = () => {
                 <li>Cosrx </li>
                 <li>Rovectin</li>
                 <li>Medi Peel</li>
-                <li>La'dor  </li>
+                <li>La&#39;dor  </li>
                 <li>Aromatica </li>
               </ul>
             </div>

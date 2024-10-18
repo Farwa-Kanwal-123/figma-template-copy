@@ -26,7 +26,7 @@ const About = () => {
               composition and information about different brands product. But
               you need remember that all people have different skin. What suits
               some does not suit others. When you buy new cosmetics you need
-              always tested on your arm before applying on face. Its very
+              always tested on your arm before applying on face. It&#39;s very
               important because you can prevent allergy on product components.
               Always remember about that all women can have got clean and
               beautiful skin but if you want it.{" "}
