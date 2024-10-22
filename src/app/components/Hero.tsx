@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-const Main = () => {
+const Hero = () => {
   return (
     <main className='w-full h-[736px] bg-[url("/bg.png")] bg-center bg-cover font-serif'>
       <div className="flex text-white justify-between pt-6 font-[Playfair Display]">
@@ -33,4 +33,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default Hero;
