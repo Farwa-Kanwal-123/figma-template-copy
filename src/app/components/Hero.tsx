@@ -25,7 +25,7 @@ const Hero = () => {
           </div>
           {/* button */}
           <div className="mt-[58px] pl-[112px]">
-            <button className="border-[1px] border-white">More information</button>
+            <button className="border-[1px] border-white p-1 px-3">More information</button>
           </div>
         </div>
       </div>
