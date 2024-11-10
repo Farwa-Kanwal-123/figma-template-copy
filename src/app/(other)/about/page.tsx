@@ -10,7 +10,7 @@ const About = () => {
           </div>
           <div>
             <p className="text-center text-sm md:text-base lg:text-lg leading-relaxed">
-              On the main page, you can read about us, but here you can read more about our project and what we aim to achieve. Many women want to look beautiful but often feel unsure. Some may not know where to start, and others may lack makeup application skills. That's why we plan to publish various makeup tutorials, which can be very useful.
+              On the main page, you can read about us, but here you can read more about our project and what we aim to achieve. Many women want to look beautiful but often feel unsure. Some may not know where to start, and others may lack makeup application skills. That#&39;s why we plan to publish various makeup tutorials, which can be very useful.
               <br /><br />
               Additionally, you’ll find information about different brands. A bit about myself: my name is Julia, and I’m eighteen years old. You might wonder how a young girl can discuss skincare problems, but I’ve dealt with acne, scars, and body acne myself. This site aims to provide you with valuable cosmetic insights. However, remember, everyone’s skin is unique. Always test new products on your arm to avoid potential allergies. Achieving clear, beautiful skin is possible with the right care!
             </p>
