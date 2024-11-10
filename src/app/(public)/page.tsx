@@ -5,6 +5,7 @@ import Info from '../components/Info'
 import Blogs from '../components/Blogs'
 import Footer from '../components/Footer'
 
+
 const Home = () => {
   return (
     <main>
